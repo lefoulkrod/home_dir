@@ -1,3 +1,6 @@
 [user]
 	name = Larry Foulkrod
 	email = lefoulkrod@gmail.com
+
+[alias]
+	c = commit -m
