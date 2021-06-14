@@ -1,1 +1,2 @@
 g=git
+kctl=kubectl
